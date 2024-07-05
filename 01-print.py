@@ -1,3 +1,5 @@
 print ("Hola mundo")
 print ("me encanta estudiar Python")
 print (300+255)
+print ("estudiar con \"python total\"\n es super")
+print ('Alexis'+' '+'Solarte')
