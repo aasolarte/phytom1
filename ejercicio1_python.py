@@ -1,5 +1,6 @@
 nombre = input ('Digite nombre: ')
 edad = input ('Digite edad: ')
 print ('Bienvenido ',nombre, 'tienes ',edad,'años')
-int(edad)
-print (edad)
+num = input ('Ingrese un número: ')
+num = int(num)
+print ('El doble del numero es : ', num*2)
